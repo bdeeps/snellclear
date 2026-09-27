@@ -1,0 +1,126 @@
+{
+  "slug": "snellclear",
+  "box": 12,
+  "question": "What is Snell's law of refraction?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/snellclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/snellclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From Ptolemy's tables of bent light to glass threads under the ocean, how people learned exactly how much light turns when it crosses into something new.\n\n984: The true rule, 637 years early\n1621: Snellius writes down the rule\n1637: The sine law is printed, and the rainbow explained\n1662: Light takes the quickest path\n1678: Wavelets explain the bend\n1850: Light is slower in water\n\nThe full story, with 20 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/snellclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/snellclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #snellslaw #refraction #refractiveindex #criticalangle #totalinternalreflection #dispersion #history",
+      "youtube": {
+        "title": "The history of Snell's law in 45 seconds #shorts",
+        "description": "From Ptolemy's tables of bent light to glass threads under the ocean, how people learned exactly how much light turns when it crosses into something new.\n\n984 · The true rule, 637 years early (Abu Sa'd al-'Ala' ibn Sahl)\n1621 · Snellius writes down the rule (Willebrord Snellius)\n1637 · The sine law is printed, and the rainbow explained (René Descartes)\n1662 · Light takes the quickest path (Pierre de Fermat)\n1678 · Wavelets explain the bend (Christiaan Huygens)\n1850 · Light is slower in water (Léon Foucault; Hippolyte Fizeau and Louis Breguet)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/snellclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/snellclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "What is Snell's law of refraction?\n\nWhy does a straw look broken in a glass of water? Bend a laser across a boundary and watch Snell's law at work, then find the same rule in shallow-looking pools, prisms and rainbows, camera lenses and your own eye, diamonds and the glass fibres of the internet, and the mirage on a hot road.\n\n→ Light bends when it enters a slower material. Snell’s law: n₁ sin θ₁ = n₂ sin θ₂.\n→ From glass into air, tilt past 41.8° and no light escapes. It all reflects back.\n→ A straw looks broken because light bends leaving the water. Your eye sees it higher.\n→ In every raindrop, sunlight bends, reflects and bunches up at 42°. That’s the rainbow.\n→ In your eye the cornea does two thirds of the bending. Under water it almost stops.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/snellclear (link in bio)\n\nBox No. L12 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #snellslaw #refraction #refractiveindex #criticalangle #totalinternalreflection #dispersion #rainbow #prism #lens",
+    "carousel": "Swipe through: What is Snell's law of refraction?\n\nWhy does a straw look broken in a glass of water? Bend a laser across a boundary and watch Snell's law at work, then find the same rule in shallow-looking pools, prisms and rainbows, camera lenses and your own eye, diamonds and the glass fibres of the internet, and the mirage on a hot road.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/snellclear (link in bio).\n\nBox No. L12 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #snellslaw #refraction #refractiveindex #criticalangle #totalinternalreflection #dispersion",
+    "youtube": {
+      "title": "What is Snell's law of refraction? #shorts",
+      "description": "Why does a straw look broken in a glass of water? Bend a laser across a boundary and watch Snell's law at work, then find the same rule in shallow-looking pools, prisms and rainbows, camera lenses and your own eye, diamonds and the glass fibres of the internet, and the mirage on a hot road.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/snellclear/\n⌘ Source code (MIT): https://github.com/bdeeps/snellclear\n\nBox No. L12 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "What is Snell's law of refraction? (interactive explainer)",
+      "description": "Why does a straw look broken in a glass of water? Bend a laser across a boundary and watch Snell's law at work, then find the same rule in shallow-looking pools, prisms and rainbows, camera lenses and your own eye, diamonds and the glass fibres of the internet, and the mirage on a hot road.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/snellclear/\n⌘ Source code (MIT): https://github.com/bdeeps/snellclear\n\nIn this video:\n• Light bends when it changes speed. Every material slows light by a factor n, its refractive index: v = c ÷ n.\n• Your eyes are fooled every day. Things under water look higher than they are, so straws look broken and pools look three quarters as deep.\n• Lenses are Snell's law, twice. Curved glass bends each ray by just the right amount to bring them to one focus.\n• Past the critical angle, light is trapped. Going into a faster material, beyond sin θc = n₂ ÷ n₁ nothing gets out: total internal reflection, a perfect mirror.\n• Mirages, negative index, and a myth. Hot air over a road curves sky light upwards into a fake puddle.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "What is Snell's law of refraction?\n\nWhy does a straw look broken in a glass of water?\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/snellclear/",
+    "linkedin": "What is Snell's law of refraction?\n\nWhy does a straw look broken in a glass of water? Bend a laser across a boundary and watch Snell's law at work, then find the same rule in shallow-looking pools, prisms and rainbows, camera lenses and your own eye, diamonds and the glass fibres of the internet, and the mirage on a hot road.\n\n1. Light bends when it changes speed\n2. Your eyes are fooled every day\n3. Lenses are Snell's law, twice\n4. Past the critical angle, light is trapped\n5. Mirages, negative index, and a myth\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. L12 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/snellclear/\nCode: https://github.com/bdeeps/snellclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T16:46:59.612Z"
+}

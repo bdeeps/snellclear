@@ -1,0 +1,160 @@
+{
+  "slug": "snellclear",
+  "kind": "principle",
+  "box": 12,
+  "date": "2026-09-27",
+  "title": "Snell's law",
+  "question": "What is Snell's law of refraction?",
+  "principle": {
+    "type": "law",
+    "name": "Snell's law",
+    "formula": "n₁ sin θ₁ = n₂ sin θ₂",
+    "formulaNote": "refractive index × sine of the angle is the same on both sides of a boundary. The index n = c ÷ v says how many times slower light goes in a material, and going into a faster one, past the critical angle (sin θc = n₂ ÷ n₁), no light gets out at all.",
+    "idea": "Light changes speed when it passes from one material into another, and that makes it bend. Going into a slower material, like air into water or glass, it turns towards the line at right angles to the surface; going into a faster one it turns away, and at a steep enough angle it can't get out at all.",
+    "discovered": "984 · Ibn Sahl, Baghdad; 1621 · Willebrord Snellius, Leiden (first printed by René Descartes, 1637)",
+    "art": "lens",
+    "appliesTo": [
+      "cameraclear",
+      "eyeclear",
+      "tvclear"
+    ],
+    "examples": [
+      {
+        "title": "A camera lens",
+        "text": "Every glass element bends light at both its curved faces, by Snell's law each time, so rays from one point of the scene meet again at one point on the sensor. Focusing just moves the lens until they meet exactly there.",
+        "box": "cameraclear"
+      },
+      {
+        "title": "Your cornea",
+        "text": "Light jumps from air (n = 1.00) into the cornea (n = 1.38) and bends hard: about 42 of the eye's 60 dioptres. Under water that jump almost vanishes, which is why everything blurs until you put on goggles.",
+        "box": "eyeclear"
+      },
+      {
+        "title": "An edge-lit TV's light guide",
+        "text": "LEDs shine into the edge of a clear acrylic plate (n = 1.49). Their light meets its faces past the 42° critical angle and stays trapped, until printed white dots scatter it out towards the LCD.",
+        "box": "tvclear"
+      },
+      {
+        "title": "Optical fibre",
+        "text": "A glass core (n ≈ 1.47) inside slightly faster cladding traps light by total internal reflection. Fibres carry almost all the internet, and the best lose only about 0.2 dB per kilometre."
+      },
+      {
+        "title": "A diamond's sparkle",
+        "text": "Diamond's critical angle is only 24.4°. A well-cut stone's back facets meet light from the top at about 41°, so they reflect it totally and send it back out of the top. Glass, with a 41.8° critical angle, lets it leak out of the back."
+      },
+      {
+        "title": "The bent straw and the shallow pool",
+        "text": "Light leaving water bends away from the normal, so anything under water looks higher than it is. Looking straight down, a 2 m pool looks only 1.5 m deep: real depth ÷ 1.333."
+      },
+      {
+        "title": "Rainbows",
+        "text": "Sunlight bends into each raindrop, reflects once off the back and bends out. The rays pile up about 42° from the point opposite the Sun, red at 42.4° and violet near 40.8°, because n changes with colour."
+      },
+      {
+        "title": "Binocular prisms",
+        "text": "Porro prisms reflect light off faces it meets at 45°, past glass's 41° critical angle, so they reflect 100%, better than any silvered mirror. BaK4 glass (n = 1.57) keeps light trapped at wider angles than BK7."
+      },
+      {
+        "title": "Mirages on hot roads",
+        "text": "Air just above a hot road is thinner and has a slightly lower index. Sky light grazing the road curves smoothly back upwards, so a puddle of sky seems to lie a couple of hundred metres ahead."
+      }
+    ]
+  },
+  "hook": "Why does a straw look broken in a glass of water? Bend a laser across a boundary and watch Snell's law at work, then find the same rule in shallow-looking pools, prisms and rainbows, camera lenses and your own eye, diamonds and the glass fibres of the internet, and the mirage on a hot road.",
+  "thumbText": "SNELL'S LAW",
+  "field": "optics",
+  "minutes": 12,
+  "tags": [
+    "Snell's law",
+    "refraction",
+    "refractive index",
+    "critical angle",
+    "total internal reflection",
+    "dispersion",
+    "rainbow",
+    "prism",
+    "lens",
+    "cornea",
+    "optical fibre",
+    "diamond",
+    "mirage",
+    "metamaterials",
+    "optics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Light bends when it changes speed",
+      "text": "Every material slows light by a factor n, its refractive index: v = c ÷ n. Crossing into a new material at a slant, the beam turns, by exactly n₁ sin θ₁ = n₂ sin θ₂, with angles measured from the normal."
+    },
+    {
+      "title": "Your eyes are fooled every day",
+      "text": "Things under water look higher than they are, so straws look broken and pools look three quarters as deep. And because n is a little bigger for violet than for red, prisms and raindrops split white light into colours, with the rainbow at 42°."
+    },
+    {
+      "title": "Lenses are Snell's law, twice",
+      "text": "Curved glass bends each ray by just the right amount to bring them to one focus. A camera focuses by moving its lens; in your eye the cornea does two thirds of the bending, which is why you can't see clearly under water."
+    },
+    {
+      "title": "Past the critical angle, light is trapped",
+      "text": "Going into a faster material, beyond sin θc = n₂ ÷ n₁ nothing gets out: total internal reflection, a perfect mirror. It carries the internet down glass fibres, makes diamonds sparkle, and spreads the light in an edge-lit TV."
+    },
+    {
+      "title": "Mirages, negative index, and a myth",
+      "text": "Hot air over a road curves sky light upwards into a fake puddle. Metamaterials bend light the wrong way. And light doesn't slow by bumping into atoms: shaken electrons re-radiate slightly behind in step, and the sum moves at c ÷ n."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Refraction",
+      "def": "The bending of light as it crosses from one material into another, because its speed changes."
+    },
+    {
+      "term": "Refractive index (n)",
+      "def": "How many times slower light goes in a material than in a vacuum: air 1.000, water 1.333, glass about 1.5, diamond 2.42."
+    },
+    {
+      "term": "Normal",
+      "def": "The line at right angles to a surface. Angles in Snell's law are measured from it."
+    },
+    {
+      "term": "Critical angle",
+      "def": "Going into a faster material, the angle beyond which no light gets out: sin θc = n₂ ÷ n₁. About 42° for glass to air."
+    },
+    {
+      "term": "Total internal reflection",
+      "def": "All the light reflecting back at a boundary, past the critical angle. It traps light in optical fibres."
+    },
+    {
+      "term": "Dispersion",
+      "def": "n changing with colour, so violet bends a little more than red. It makes prisms and rainbows."
+    },
+    {
+      "term": "Focal length",
+      "def": "How far behind a lens parallel rays meet. For a thin lens, 1/f = (n − 1)(1/R₁ − 1/R₂)."
+    },
+    {
+      "term": "Apparent depth",
+      "def": "How deep water looks. Straight down it is the real depth ÷ n, about three quarters."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "snellclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
